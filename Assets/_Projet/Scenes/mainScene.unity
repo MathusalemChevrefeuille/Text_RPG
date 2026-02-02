@@ -355,8 +355,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 602636847}
   m_HandleRect: {fileID: 602636846}
   m_Direction: 2
-  m_Value: 1.0000001
-  m_Size: 0.5662333
+  m_Value: 1
+  m_Size: 1
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -1201,58 +1201,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '
-
-
-    fg*hfg
-
-    h
-
-    gdf
-
-    fgdn
-
-    fgdn
-
-    gh
-
-    ,nghd
-
-    ,
-
-    ,
-
-    nfhd
-
-    nghd
-
-    nj
-
-    gh
-
-    ,ngd
-
-    n
-
-    fdn
-
-    ghd
-
-    ,ngh
-
-    n
-
-    fgd
-
-    nfghd
-
-    n
-
-    ghdf
-
-    fd
-
-'
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 338ea142c86315c49818f744d9d5620b, type: 2}
   m_sharedMaterial: {fileID: -5179402483619940437, guid: 338ea142c86315c49818f744d9d5620b, type: 2}
